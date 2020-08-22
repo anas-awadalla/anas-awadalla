@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ML accessibility with Libra and DL for health.
+- 🌱 I’m currently learning DCNN interpretability
+
+- 📫 How to reach me: anasa2@uw.edu
+
 <!--
 **anas-awadalla/anas-awadalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
