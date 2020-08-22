@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ML accessibility with Libra and DL for healthcare.
-- 🌱 I’m currently learning DCNN interpretability
+- 🌱 I’m currently learning about DCNN interpretability
 
 - 📫 How to reach me: anasa2@uw.edu
 
