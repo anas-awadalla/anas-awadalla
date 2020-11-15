@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I'm intreasted in computer vision and NLP and looking for ML or SWE internship positions for Summer 2021!
+- 💻 I'm interested in computer vision and NLP and looking for ML or SWE internship positions for Summer 2021!
 - 🔭 I’m currently working on ML accessibility with Libra focusing on enabling custom NLP training piplines in as simple as one line.
 - 🌱 I’m currently learning about CNN interpretability techniques.
 
